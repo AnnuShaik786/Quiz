@@ -75,7 +75,7 @@ def main():
 
 
      # Question 4
-    question4 = "4Chemical formula of Gold?"
+    question4 = "4.Chemical formula of Gold?"
     answer4 = "Au"
     if ask_question(question4, answer4):
         score = score + 1000
